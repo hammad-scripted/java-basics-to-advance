@@ -12,5 +12,13 @@ class first {
         System.out.println(x);
         System.out.println(hasChildren);
 
+
+//? non primitive  data types
+
+        String name="Mohammad Hammad Ansari!!";
+        System.out.println(name);
+
+
+
     }
 }
