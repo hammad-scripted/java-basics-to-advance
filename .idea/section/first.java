@@ -17,7 +17,11 @@ class first {
 
         String name="Mohammad Hammad Ansari!!";
         System.out.println(name);
-
+//        ! multi line strings
+        String line= """
+                this is a multi line string example.
+                """
+    System.out.println(line);
 
 
     }
