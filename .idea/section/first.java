@@ -30,6 +30,9 @@ class first {
 
         long l=12345;
         System.out.println(l);
+        boolean a=true;
+        System.out.println(a);
+
 
 
     }
