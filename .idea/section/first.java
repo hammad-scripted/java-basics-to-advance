@@ -28,6 +28,9 @@ class first {
                 """
                 System.out.println(abc);
 
+        long l=12345;
+        System.out.println(l);
+
 
     }
 }
