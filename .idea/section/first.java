@@ -22,6 +22,11 @@ class first {
                 this is a multi line string example.
                 """
     System.out.println(line);
+        String abc= """
+                this is a multi line string example.
+                
+                """
+                System.out.println(abc);
 
 
     }
