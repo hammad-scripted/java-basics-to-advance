@@ -32,6 +32,11 @@ class first {
         System.out.println(l);
         boolean a=true;
         System.out.println(a);
+        void greet(){
+            System.out.println("This is a greeting function!!");
+
+        }
+        greet();
 
 
 
