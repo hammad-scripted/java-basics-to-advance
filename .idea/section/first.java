@@ -37,7 +37,7 @@ class first {
 
         }
         greet();
-
+console.log("Jjjjjj");
 
 
     }
