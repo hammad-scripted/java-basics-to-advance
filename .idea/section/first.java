@@ -7,37 +7,38 @@ class first {
         System.out.println(n);
 //! primitive data types
 
-        boolean hasChildren=true;
-        char x='M';
+        boolean hasChildren = true;
+        char x = 'M';
         System.out.println(x);
         System.out.println(hasChildren);
 
 
 //? non primitive  data types
 
-        String name="Mohammad Hammad Ansari!!";
+        String name = "Mohammad Hammad Ansari!!";
         System.out.println(name);
 //        ! multi line strings
-        String line= """
+        String line = """
                 this is a multi line string example.
                 """
-    System.out.println(line);
-        String abc= """
+        System.out.println(line);
+        String abc = """
                 this is a multi line string example.
                 
                 """
-                System.out.println(abc);
+        System.out.println(abc);
 
-        long l=12345;
+        long l = 12345;
         System.out.println(l);
-        boolean a=true;
+        boolean a = true;
         System.out.println(a);
-        void greet(){
+        void greet () {
             System.out.println("This is a greeting function!!");
 
         }
         greet();
-console.log("Jjjjjj");
+        console.log("Jjjjjj");
+        console.log("MOfqo4ew9r;soidfj;alsdkfj;lasdkfj");
 
 
     }
