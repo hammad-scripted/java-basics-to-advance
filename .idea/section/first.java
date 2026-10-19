@@ -48,6 +48,11 @@ class first {
             System.out.println((arr[i]));
 
         }
+        int i=0;
+        while(i>0){
+            System.out.println(i);
+            i--;
+        }
 
 
     }
