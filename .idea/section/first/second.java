@@ -15,6 +15,13 @@ public class second {
                 System.out.println(i);
             }
         }
+        do {
+            System.out.println("Hammad");
+        }
+        while (i<5){
+            System.out.println(i++);
+            i--;
+        }
 
 
 
