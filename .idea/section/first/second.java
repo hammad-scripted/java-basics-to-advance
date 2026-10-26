@@ -30,6 +30,12 @@ public class second {
         }
 
 
+        // oops
+        // object oreinted programming
+        // abstraction
+        // polymorphsim, encapsiulation,classed ojbects
+
+
 
     }
 }
