@@ -34,6 +34,7 @@ public class second {
         // object oreinted programming
         // abstraction
         // polymorphsim, encapsiulation,classed ojbects
+        //fkj;aiereijekf
 
 
 
