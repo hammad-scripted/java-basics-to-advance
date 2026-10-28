@@ -35,6 +35,11 @@ public class second {
         // abstraction
         // polymorphsim, encapsiulation,classed ojbects
         //fkj;aiereijekf
+        // oops
+        // object oreinted programming
+        // abstraction
+        // polymorphsim, encapsiulation,classed ojbects
+        //fkj;aiereijekf
 
 
 
