@@ -40,6 +40,7 @@ public class second {
         // abstraction
         // polymorphsim, encapsiulation,classed ojbects
         //fkj;aiereijekf
+        /// farzi code push chal rha hai
 
 
 
